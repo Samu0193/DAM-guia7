@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemPrincipal"
+        android:title="Principal" />
+    <item
+        android:id="@+id/itemEjemplo1"
+        android:title="Ejemplo #1" />
+    <item
+        android:id="@+id/itemEjemplo2"
+        android:title="Ejemplo #2" />
+    <item
+        android:id="@+id/itemEjemplo3"
+        android:title="Ejemplo #3" />
+    <item
+        android:id="@+id/itemEjercicio1"
+        android:title="Trabajadores" />
+    <item
+        android:id="@+id/itemEjercicio2"
+        android:title="Datos Personales" />
+    <item
+        android:id="@+id/itemEjercicio3"
+        android:title="Listado Frutas" />
+    <item
+        android:id="@+id/itemEjercicio4"
+        android:title="Reproductor" />
+</menu>
